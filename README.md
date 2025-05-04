@@ -2,3 +2,20 @@ git remote add origin https://github.com/codegym-vn/my-new-project.git
 git add README.md
 git commit -m "Add README.md file"
 git push origin master
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>HTML links</title>
+    </head>
+    <body>
+    </body>
+</html>
+<h1>HTML: HyperText Markup Language</h1>
+<p>Tim Berners-Lee invented the first browser at CERN, to enable researchers to share their research with eachother.</p>
+<a target="_blank" href="http://home.web.cern.ch/topics/birth-web">Read more about the history of HTML
+        <p>
+        <img src="https://www.kasandbox.org/programming-images/misc/tim-berners-lee-webpage.png" width="300">
+        <br/>Image courtesy CERN   
+        </p>           
+</a>
